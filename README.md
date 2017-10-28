@@ -6,7 +6,7 @@ Please upload your settings for your Filament Type_ Manufacturer, then Printer M
 Structure:
 
 - Printer Brand 
--- Filament Manufacturer
---- Material Type
+-- Material Type
+--- Filament Manufacturer
 
 Have Fun!
